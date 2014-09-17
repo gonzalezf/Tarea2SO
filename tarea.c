@@ -1,6 +1,8 @@
 #include <sys/types.h>
 #include <stdio.h>
 #include <unistd.h>
+#include <errno.h>
+#include <string.h>
  /* crear subprocesos mediante fork
   * cada subproceso entregar informacion sobre estado del sistema y enviar resultados al padre mediante
   * memoria compartida
@@ -21,21 +23,23 @@
  int main(){
 	 pid_t pid;
 	 pid = fork();
+	 printf("%d\n", pid);
 	 
-	 if(pid == -1) ;
+	 if(pid == -1)
 	 {
-	 printf("Error al crear proceso hijo \n");
-	 return 0;
+	 	printf("Error al crear proceso hijo \n");
+	 	printf("%s", strerror(errno));
+	 	return 0;
 	 }
 	 if(pid == 0){ /* ejecutar instrucciones del hijo*/
 	
-	 printf("Soy el hijo \n");
-	 return 0;
+		printf("Soy el hijo \n");
+		return 0;
 	}
-	 else if(pid >0) /* proceso padre, retorna el PID del hijo*/
-	 {
-		printf("Proceso padre, Pid del hijo es %d \n",pid);
-		 return 0;
-		}
+	else if(pid >0) /* proceso padre, retorna el PID del hijo*/
+	{
+	 	printf("Proceso padre, Pid del hijo es %d \n",pid);
+		return 0;
+	}
 	 	 
  }
