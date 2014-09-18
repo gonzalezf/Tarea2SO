@@ -1,24 +1,9 @@
 #include <stdlib.h>
 #include <stdio.h>
-#define SIZE 100
-typedef tipocola;
+#include "cola.h"
 
-
-//ultimo parte en posicion cero
-// frente , parte una posicion despues.!
-//modulo con el maxsize!
-typedef struct{
-	int maxsize; //tamano maximo de cola
-	int frente; //index del primer elemento
-	int ultimo; //index del ultimo elemento
-	tipocola *arreglo;
-	
-	
-	}tcola;
-	
-	
 void init(tcola *C){
-	C->maxsize = SIZE+1;
+	C->maxsize = QUEUE_SIZE+1;
 	C->ultimo =0; C->frente =1; //cola es circular. ultimo debe estar uno antes del frente!
 	C->arreglo = (tipocola *)malloc(sizeof(C->maxsize)) ;//se pide un arreglo para n+1 posiciones. n es el tamño maximo de elementos.
 	
@@ -52,13 +37,6 @@ void dequeue(tcola *C){
 
 int frontvalue(tcola *C){
 	if(lenght(C)==0) printf("COLA VACIA \n");
-	printf("%d ",C->arreglo[C->frente]);
 	return C->arreglo[C->frente];
 		
 	}
-
-int main(){
-	
-	return 1;
-
-}
