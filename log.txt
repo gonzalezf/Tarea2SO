@@ -1,0 +1,608 @@
+(8908): El sistema lleva 9508 s encendido.
+
+(8908): El sistema lleva 9508 s encendido.
+
+(8909): Disponibles 1056108544MB de 4126195712MB
+(8908): El sistema lleva 9508 s encendido.
+
+(8909): Disponibles 1056108544MB de 4126195712MB
+(8910): Hay 586 proceos en ejecucion
+(8908): El sistema lleva 9509 s encendido.
+
+(8909): Disponibles 1056108544MB de 4126195712MB
+(8910): Hay 586 proceos en ejecucion
+(8908): El sistema lleva 9509 s encendido.
+
+(8909): Disponibles 1056108544MB de 4126195712MB
+(8910): Hay 586 proceos en ejecucion
+(8908): El sistema lleva 9509 s encendido.
+
+(8909): Disponibles 1056108544MB de 4126195712MB
+(8910): Hay 586 proceos en ejecucion
+(8908): El sistema lleva 9509 s encendido.
+
+(8909): Disponibles 1056108544MB de 4126195712MB
+(8910): Hay 586 proceos en ejecucion
+(8908): El sistema lleva 9509 s encendido.
+
+(8909): Disponibles 1056108544MB de 4126195712MB
+(8910): Hay 586 proceos en ejecucion
+(8908): El sistema lleva 9509 s encendido.
+
+(8909): Disponibles 1056108544MB de 4126195712MB
+(8910): Hay 586 proceos en ejecucion
+(8908): El sistema lleva 9509 s encendido.
+
+(8909): Disponibles 1056108544MB de 4126195712MB
+(8910): Hay 586 proceos en ejecucion
+(8908): El sistema lleva 9509 s encendido.
+
+(8909): Disponibles 1056108544MB de 4126195712MB
+(8910): Hay 586 proceos en ejecucion
+(8908): El sistema lleva 9509 s encendido.
+
+(8909): Disponibles 1056116736MB de 4126195712MB
+(8910): Hay 586 proceos en ejecucion
+(8949): El sistema lleva 9957 s encendido.
+
+(8949): El sistema lleva 9957 s encendido.
+
+(8950): Disponibles 882712576MB de 4126195712MB
+(8949): El sistema lleva 9957 s encendido.
+
+(8950): Disponibles 882712576MB de 4126195712MB
+(8951): Hay 596 proceos en ejecucion
+(8949): El sistema lleva 9957 s encendido.
+
+(8950): Disponibles 882712576MB de 4126195712MB
+(8951): Hay 596 proceos en ejecucion
+(8949): El sistema lleva 9957 s encendido.
+
+(8950): Disponibles 882712576MB de 4126195712MB
+(8951): Hay 596 proceos en ejecucion
+(8949): El sistema lleva 9957 s encendido.
+
+(8950): Disponibles 882745344MB de 4126195712MB
+(8951): Hay 596 proceos en ejecucion
+(8949): El sistema lleva 9958 s encendido.
+
+(8950): Disponibles 882745344MB de 4126195712MB
+(8951): Hay 596 proceos en ejecucion
+(8949): El sistema lleva 9958 s encendido.
+
+(8950): Disponibles 882745344MB de 4126195712MB
+(8951): Hay 596 proceos en ejecucion
+(8949): El sistema lleva 9958 s encendido.
+
+(8950): Disponibles 882745344MB de 4126195712MB
+(8951): Hay 596 proceos en ejecucion
+(8949): El sistema lleva 9958 s encendido.
+
+(8950): Disponibles 882745344MB de 4126195712MB
+(8951): Hay 596 proceos en ejecucion
+(8949): El sistema lleva 9958 s encendido.
+
+(8950): Disponibles 882745344MB de 4126195712MB
+(8951): Hay 596 proceos en ejecucion
+(8949): El sistema lleva 9958 s encendido.
+
+(8950): Disponibles 882745344MB de 4126195712MB
+(8951): Hay 596 proceos en ejecucion
+(9017): El sistema lleva 10037 s encendido.
+(9017): El sistema lleva 10037 s encendido.
+(9018): Disponibles 788MB de 3935MB
+(9017): El sistema lleva 10038 s encendido.
+(9018): Disponibles 788MB de 3935MB
+(9019): Hay 605 procesos en ejecución
+(9017): El sistema lleva 10038 s encendido.
+(9018): Disponibles 788MB de 3935MB
+(9019): Hay 605 procesos en ejecución
+(9017): El sistema lleva 10039 s encendido.
+(9018): Disponibles 788MB de 3935MB
+(9019): Hay 605 procesos en ejecución
+(9017): El sistema lleva 10039 s encendido.
+(9018): Disponibles 788MB de 3935MB
+(9019): Hay 605 procesos en ejecución
+(9017): El sistema lleva 10040 s encendido.
+(9018): Disponibles 788MB de 3935MB
+(9019): Hay 605 procesos en ejecución
+(9017): El sistema lleva 10040 s encendido.
+(9018): Disponibles 788MB de 3935MB
+(9019): Hay 605 procesos en ejecución
+(9017): El sistema lleva 10041 s encendido.
+(9018): Disponibles 789MB de 3935MB
+(9019): Hay 605 procesos en ejecución
+(9017): El sistema lleva 10041 s encendido.
+(9018): Disponibles 789MB de 3935MB
+(9019): Hay 605 procesos en ejecución
+(9017): El sistema lleva 10042 s encendido.
+(9018): Disponibles 789MB de 3935MB
+(9019): Hay 605 procesos en ejecución
+(9017): El sistema lleva 10042 s encendido.
+(9019): Hay 605 procesos en ejecución
+(9018): Disponibles 789MB de 3935MB
+(9022): El sistema lleva 10063 s encendido.
+(9022): El sistema lleva 10063 s encendido.
+(9023): Disponibles 796MB de 3935MB
+(9022): El sistema lleva 10064 s encendido.
+(9023): Disponibles 792MB de 3935MB
+(9024): Hay 604 procesos en ejecución
+(9022): El sistema lleva 10064 s encendido.
+(9023): Disponibles 792MB de 3935MB
+(9024): Hay 604 procesos en ejecución
+(9022): El sistema lleva 10065 s encendido.
+(9023): Disponibles 795MB de 3935MB
+(9024): Hay 604 procesos en ejecución
+(9022): El sistema lleva 10065 s encendido.
+(9023): Disponibles 795MB de 3935MB
+(9024): Hay 604 procesos en ejecución
+(9022): El sistema lleva 10066 s encendido.
+(9023): Disponibles 795MB de 3935MB
+(9024): Hay 604 procesos en ejecución
+(9022): El sistema lleva 10066 s encendido.
+(9023): Disponibles 795MB de 3935MB
+(9024): Hay 604 procesos en ejecución
+(9022): El sistema lleva 10067 s encendido.
+(9023): Disponibles 795MB de 3935MB
+(9024): Hay 604 procesos en ejecución
+(9022): El sistema lleva 10067 s encendido.
+(9023): Disponibles 795MB de 3935MB
+(9024): Hay 604 procesos en ejecución
+(9022): El sistema lleva 10068 s encendido.
+(9023): Disponibles 795MB de 3935MB
+(9024): Hay 604 procesos en ejecución
+(9022): El sistema lleva 10068 s encendido.
+(9023): Disponibles 795MB de 3935MB
+(9024): Hay 604 procesos en ejecución
+(9088): El sistema lleva 10352 s encendido.
+(9088): El sistema lleva 10352 s encendido.
+(9089): Disponibles 681MB de 3935MB
+(9088): El sistema lleva 10352 s encendido.
+(9089): Disponibles 681MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10353 s encendido.
+(9089): Disponibles 681MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10353 s encendido.
+(9089): Disponibles 681MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10353 s encendido.
+(9089): Disponibles 681MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10353 s encendido.
+(9089): Disponibles 681MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10353 s encendido.
+(9089): Disponibles 681MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10353 s encendido.
+(9089): Disponibles 681MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10353 s encendido.
+(9089): Disponibles 681MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10353 s encendido.
+(9089): Disponibles 681MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10353 s encendido.
+(9089): Disponibles 681MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10353 s encendido.
+(9089): Disponibles 681MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10354 s encendido.
+(9089): Disponibles 681MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10354 s encendido.
+(9089): Disponibles 681MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10354 s encendido.
+(9089): Disponibles 681MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10354 s encendido.
+(9089): Disponibles 681MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10354 s encendido.
+(9089): Disponibles 681MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10354 s encendido.
+(9089): Disponibles 681MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10354 s encendido.
+(9089): Disponibles 681MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10354 s encendido.
+(9089): Disponibles 681MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10354 s encendido.
+(9089): Disponibles 681MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10354 s encendido.
+(9089): Disponibles 681MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10355 s encendido.
+(9089): Disponibles 681MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10355 s encendido.
+(9089): Disponibles 681MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10355 s encendido.
+(9089): Disponibles 681MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9089): Disponibles 681MB de 3935MB
+(9088): El sistema lleva 10355 s encendido.
+(9090): Hay 612 procesos en ejecución
+(9089): Disponibles 681MB de 3935MB
+(9088): El sistema lleva 10355 s encendido.
+(9090): Hay 612 procesos en ejecución
+(9089): Disponibles 681MB de 3935MB
+(9088): El sistema lleva 10355 s encendido.
+(9090): Hay 612 procesos en ejecución
+(9089): Disponibles 681MB de 3935MB
+(9088): El sistema lleva 10355 s encendido.
+(9090): Hay 612 procesos en ejecución
+(9089): Disponibles 681MB de 3935MB
+(9088): El sistema lleva 10355 s encendido.
+(9090): Hay 612 procesos en ejecución
+(9089): Disponibles 681MB de 3935MB
+(9088): El sistema lleva 10355 s encendido.
+(9090): Hay 612 procesos en ejecución
+(9089): Disponibles 681MB de 3935MB
+(9088): El sistema lleva 10355 s encendido.
+(9090): Hay 612 procesos en ejecución
+(9089): Disponibles 680MB de 3935MB
+(9088): El sistema lleva 10356 s encendido.
+(9090): Hay 612 procesos en ejecución
+(9089): Disponibles 680MB de 3935MB
+(9088): El sistema lleva 10356 s encendido.
+(9090): Hay 612 procesos en ejecución
+(9089): Disponibles 680MB de 3935MB
+(9088): El sistema lleva 10356 s encendido.
+(9090): Hay 612 procesos en ejecución
+(9089): Disponibles 680MB de 3935MB
+(9088): El sistema lleva 10356 s encendido.
+(9090): Hay 612 procesos en ejecución
+(9089): Disponibles 680MB de 3935MB
+(9088): El sistema lleva 10356 s encendido.
+(9090): Hay 611 procesos en ejecución
+(9089): Disponibles 680MB de 3935MB
+(9088): El sistema lleva 10356 s encendido.
+(9090): Hay 611 procesos en ejecución
+(9088): El sistema lleva 10356 s encendido.
+(9089): Disponibles 680MB de 3935MB
+(9090): Hay 611 procesos en ejecución
+(9088): El sistema lleva 10356 s encendido.
+(9089): Disponibles 680MB de 3935MB
+(9090): Hay 611 procesos en ejecución
+(9088): El sistema lleva 10356 s encendido.
+(9089): Disponibles 680MB de 3935MB
+(9090): Hay 611 procesos en ejecución
+(9088): El sistema lleva 10356 s encendido.
+(9089): Disponibles 680MB de 3935MB
+(9090): Hay 611 procesos en ejecución
+(9088): El sistema lleva 10357 s encendido.
+(9089): Disponibles 680MB de 3935MB
+(9090): Hay 611 procesos en ejecución
+(9088): El sistema lleva 10357 s encendido.
+(9089): Disponibles 680MB de 3935MB
+(9090): Hay 611 procesos en ejecución
+(9088): El sistema lleva 10357 s encendido.
+(9089): Disponibles 680MB de 3935MB
+(9090): Hay 611 procesos en ejecución
+(9088): El sistema lleva 10357 s encendido.
+(9089): Disponibles 680MB de 3935MB
+(9090): Hay 611 procesos en ejecución
+(9088): El sistema lleva 10357 s encendido.
+(9089): Disponibles 680MB de 3935MB
+(9090): Hay 611 procesos en ejecución
+(9088): El sistema lleva 10357 s encendido.
+(9089): Disponibles 680MB de 3935MB
+(9090): Hay 611 procesos en ejecución
+(9088): El sistema lleva 10357 s encendido.
+(9089): Disponibles 680MB de 3935MB
+(9090): Hay 611 procesos en ejecución
+(9088): El sistema lleva 10357 s encendido.
+(9089): Disponibles 680MB de 3935MB
+(9090): Hay 611 procesos en ejecución
+(9090): Hay 611 procesos en ejecución
+(9089): Disponibles 680MB de 3935MB
+(9090): Hay 611 procesos en ejecución
+(9089): Disponibles 680MB de 3935MB
+(9088): El sistema lleva 10357 s encendido.
+(9090): Hay 611 procesos en ejecución
+(9089): Disponibles 680MB de 3935MB
+(9088): El sistema lleva 10358 s encendido.
+(9090): Hay 611 procesos en ejecución
+(9089): Disponibles 680MB de 3935MB
+(9088): El sistema lleva 10358 s encendido.
+(9090): Hay 611 procesos en ejecución
+(9089): Disponibles 680MB de 3935MB
+(9088): El sistema lleva 10358 s encendido.
+(9090): Hay 611 procesos en ejecución
+(9089): Disponibles 680MB de 3935MB
+(9088): El sistema lleva 10358 s encendido.
+(9090): Hay 611 procesos en ejecución
+(9089): Disponibles 680MB de 3935MB
+(9088): El sistema lleva 10358 s encendido.
+(9090): Hay 611 procesos en ejecución
+(9089): Disponibles 680MB de 3935MB
+(9088): El sistema lleva 10358 s encendido.
+(9090): Hay 611 procesos en ejecución
+(9089): Disponibles 680MB de 3935MB
+(9088): El sistema lleva 10358 s encendido.
+(9090): Hay 611 procesos en ejecución
+(9089): Disponibles 680MB de 3935MB
+(9088): El sistema lleva 10358 s encendido.
+(9090): Hay 611 procesos en ejecución
+(9089): Disponibles 680MB de 3935MB
+(9088): El sistema lleva 10358 s encendido.
+(9090): Hay 611 procesos en ejecución
+(9089): Disponibles 680MB de 3935MB
+(9088): El sistema lleva 10358 s encendido.
+(9090): Hay 611 procesos en ejecución
+(9089): Disponibles 680MB de 3935MB
+(9088): El sistema lleva 10359 s encendido.
+(9090): Hay 611 procesos en ejecución
+(9089): Disponibles 680MB de 3935MB
+(9088): El sistema lleva 10359 s encendido.
+(9090): Hay 611 procesos en ejecución
+(9089): Disponibles 680MB de 3935MB
+(9088): El sistema lleva 10359 s encendido.
+(9090): Hay 611 procesos en ejecución
+(9089): Disponibles 680MB de 3935MB
+(9088): El sistema lleva 10359 s encendido.
+(9090): Hay 612 procesos en ejecución
+(9089): Disponibles 680MB de 3935MB
+(9088): El sistema lleva 10359 s encendido.
+(9090): Hay 612 procesos en ejecución
+(9089): Disponibles 680MB de 3935MB
+(9088): El s612 procesos 10359 s encendido.
+(9090): El s612 procesos 10359 s encendido.
+(9088): El sistema lleva 10359 s encendido.
+(9089): Disponibles 680MB de 3935MB
+(9088): El sistema lleva 10359 s encendido.
+(9089): Disponibles 680MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10359 s encendido.
+(9089): Disponibles 680MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10359 s encendido.
+(9089): Disponibles 680MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10360 s encendido.
+(9089): Disponibles 680MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10360 s encendido.
+(9089): Disponibles 680MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10360 s encendido.
+(9089): Disponibles 680MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10360 s encendido.
+(9089): Disponibles 680MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10360 s encendido.
+(9089): Disponibles 680MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10360 s encendido.
+(9089): Disponibles 680MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10360 s encendido.
+(9089): Disponibles 680MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10360 s encendido.
+(9089): Disponibles 680MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10360 s encendido.
+(9089): Disponibles 680MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10360 s encendido.
+(9089): Disponibles 680MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10361 s encendido.
+(9089): Disponibles 680MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10361 s encendido.
+(9089): Disponibles 680MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10361 s encendido.
+(9089): Disponibles 680MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10361 s encendido.
+(9089): Disponibles 680MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10361 s encendido.
+(9089): Disponibles 680MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10361 s encendido.
+(9089): Disponibles 680MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10361 s encendido.
+(9089): Disponibles 680MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10361 s encendido.
+(9089): Disponibles 680MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10361 s encendido.
+(9089): Disponibles 680MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10361 s encendido.
+(9089): Disponibles 680MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10362 s encendido.
+(9089): Disponibles 680MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10362 s encendido.
+(9089): Disponibles 680MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9089): Disponibles 680MB de 3935MB
+(9088): El sistema lleva 10362 s encendido.
+(9088): El sistema lleva 10362 s encendido.
+(9089): Disponibles 680MB de 3935MB
+(9088): El sistema lleva 10362 s encendido.
+(9090): Hay 612 procesos en ejecución
+(9089): Disponibles 680MB de 3935MB
+(9088): El sistema lleva 10362 s encendido.
+(9090): Hay 612 procesos en ejecución
+(9089): Disponibles 680MB de 3935MB
+(9088): El sistema lleva 10362 s encendido.
+(9090): Hay 612 procesos en ejecución
+(9089): Disponibles 680MB de 3935MB
+(9088): El sistema lleva 10362 s encendido.
+(9090): Hay 612 procesos en ejecución
+(9089): Disponibles 680MB de 3935MB
+(9088): El sistema lleva 10362 s encendido.
+(9090): Hay 612 procesos en ejecución
+(9089): Disponibles 680MB de 3935MB
+(9088): El sistema lleva 10362 s encendido.
+(9090): Hay 612 procesos en ejecución
+(9089): Disponibles 680MB de 3935MB
+(9088): El sistema lleva 10362 s encendido.
+(9090): Hay 612 procesos en ejecución
+(9089): Disponibles 678MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10363 s encendido.
+(9089): Disponibles 680MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10363 s encendido.
+(9089): Disponibles 680MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10363 s encendido.
+(9089): Disponibles 680MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10363 s encendido.
+(9090): Hay 612 procesos en ejecución
+(9089): Disponibles 680MB de 3935MB
+(9088): El sistema lleva 10363 s encendido.
+(9088): El sistema lleva 10363 s encendido.
+(9089): Disponibles 681MB de 3935MB
+(9088): El sistema lleva 10363 s encendido.
+(9089): Disponibles 681MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10363 s encendido.
+(9090): Hay 612 procesos en ejecución
+(9089): Disponibles 681MB de 3935MB
+(9088): El sistema lleva 10363 s encendido.
+(9088): El sistema lleva 10363 s encendido.
+(9089): Disponibles 681MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10363 s encendido.
+(9089): Disponibles 681MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10364 s encendido.
+(9089): Disponibles 681MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10364 s encendido.
+(9090): Hay 612 procesos en ejecución
+(9089): Disponibles 681MB de 3935MB
+(9088): El sistema lleva 10364 s encendido.
+(9090): Hay 612 procesos en ejecución
+(9089): Disponibles 681MB de 3935MB
+(9088): El sistema lleva 10364 s encendido.
+(9089): Disponibles 681MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10364 s encendido.
+(9090): Hay 612 procesos en ejecución
+(9089): Disponibles 686MB de 3935MB
+(9088): El sistema lleva 10364 s encendido.
+(9090): Hay 612 procesos en ejecución
+(9089): Disponibles 668MB de 3935MB
+(9088): Eay 612 procesos 10364 s encendido.
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10364 s encendido.
+(9089): Disponibles 677MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9089): Disponibles 677MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10364 s encendido.
+(9089): Disponibles 674MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10365 s encendido.
+(9089): Disponibles 671MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10365 s encendido.
+(9089): Disponibles 671MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10365 s encendido.
+(9089): Disponibles 671MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10365 s encendido.
+(9089): Disponibles 671MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10365 s encendido.
+(9089): Disponibles 671MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10365 s encendido.
+(9089): Disponibles 671MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10365 s encendido.
+(9089): Disponibles 671MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10365 s encendido.
+(9089): Disponibles 671MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10365 s encendido.
+(9089): Disponibles 671MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10365 s encendido.
+(9089): Disponibles 671MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10366 s encendido.
+(9089): Disponibles 668MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10366 s encendido.
+(9089): Disponibles 668MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10366 s encendido.
+(9089): Disponibles 668MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10366 s encendido.
+(9089): Disponibles 669MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10366 s encendido.
+(9089): Disponibles 668MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10366 s encendido.
+(9089): Disponibles 668MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10366 s encendido.
+(9089): Disponibles 668MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10366 s encendido.
+(9089): Disponibles 668MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10366 s encendido.
+(9089): Disponibles 668MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10366 s encendido.
+(9089): Disponibles 668MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10367 s encendido.
+(9089): Disponibles 668MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9088): El sistema lleva 10367 s encendido.
+(9089): Disponibles 668MB de 3935MB
+(9090): Hay 612 procesos en ejecución
+(9089): Disponibles 668MB de 3935MB
+(9088): El sistema lleva 10367 s encendido.
+(9090): Hay 612 procesos en ejecución
+(9089): Disponibles 669MB de 3935MB
+(9088): El sistema lleva 10367 s encendido.
+(9090): Hay 612 procesos en ejecución
+(9089): Disponibles 669MB de 3935MB
+(9088): El sistema lleva 10367 s encendido.
+(9090): Hay 612 procesos en ejecución
+(9089): Disponibles 669MB de 3935MB
+(9088): El sistema lleva 10367 s encendido.
+(9090): Hay 612 procesos en ejecución
+(9089): Disponibles 669MB de 3935MB
+(9088): El sistema lleva 10367 s encendido.
+(9090): Hay 612 procesos en ejecución
+(9089): Disponibles 669MB de 3935MB
+(9088): El sistema lleva 10367 s encendido.
+(9090): Subproceso finalizado
+(9089): Disponibles 667MB de 3935MB
+(9088): El sistema lleva 10367 s encendido.
+(9089): Subproceso finalizado
+(9088): Subproceso finalizado
+(9087) Programa finalizado

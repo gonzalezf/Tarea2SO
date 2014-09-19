@@ -9,14 +9,14 @@ typedef struct{
 	tipocola *arreglo;
 	
 	
-	}tcola;
+	}tCola;
 	
 	
-void init(tcola *C);
-void clear(tcola *C);
-void enqueue(tcola *C, tipocola item);
-int lenght(tcola *C);
-void dequeue(tcola *C);
-int frontvalue(tcola *C);
+void InitCola(tCola *C);
+void clear(tCola *C);
+void enqueue(tCola *C, tipocola item);
+int lenght(tCola *C);
+void dequeue(tCola *C);
+int frontvalue(tCola *C);
 
 #endif //__COLA_INCLUDED_H__

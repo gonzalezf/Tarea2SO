@@ -6,7 +6,7 @@ CFLAGS		= -g -Wall
 all: main
 
 main: cola.o main.o
-	$(CC) $(CFLAGS) -o $@ $^
+	$(CC) $(CFLAGS) -o $@ $^ -lpthread -lrt
 
 main.o: main.h
 color.o: color.h
