@@ -10,17 +10,7 @@
 #include <errno.h>
 #include <sys/wait.h>
 #include "cola.h"
-
-//Esta es la estructura del semaforo
-typedef struct
-{
-	int procesos[3];		//Esto es para ver cuando terminan los procesos
-	char buffer[512];		//El buffer donde escribimos cosas
-	char disponible;		//Esta el buffer disponible?
-	char cola_ocupada;		//Para evitar posibles errores en la cola, los procesos de queue
-							//y enqueue deben ser analizados tambien!
-	tCola cola;				//Cola de procesamiento (Los que estan en lista de espera)
-} tSemaforo;
+#include "main.h"
 
 //Inicializar semaforo
 void InitSemaforo(tSemaforo *semaforo)
