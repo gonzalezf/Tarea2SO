@@ -9,9 +9,7 @@ main: cola.o main.o
 	$(CC) $(CFLAGS) -o $@ $^ -lpthread -lrt
 
 main.o: main.h
-color.o: color.h
-dibujador.o: dibujador.h
-list.o: list.h
+cola.o: cola.h
 
 clean:
 	rm -f *o main
